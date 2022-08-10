@@ -1,0 +1,13 @@
+let a=7;
+let b=5;
+console.log(a,b);
+const temp=a;
+a=b;
+b=temp;
+console.log(a,b);
+console.log('------------------------------------');
+let c=8;
+let d=9;
+console.log(c,d);
+[c,d]=[d,c];
+console.log(c,d);
