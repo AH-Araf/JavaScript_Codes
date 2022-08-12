@@ -1,7 +1,7 @@
 /**
    1. show output from 1-50
    2. if number divisible by 3 then insted of the number show 'foo'
-   3. if number divisible by 3 then insted of the number show 'bar'
+   3. if number divisible by 5 then insted of the number show 'bar'
    4. if number divisible by 3 and 5 then insted of the number show 'foobar'
  */
 

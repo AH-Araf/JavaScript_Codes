@@ -1,4 +1,4 @@
-/* 
+/* 0,1,1,2,3,5
 fibo[8]= fibo[7] + fibo[6];
 fibo[n]= fibo[n-1] + fibo[n-2];
 */

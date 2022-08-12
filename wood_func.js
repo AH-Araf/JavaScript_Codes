@@ -11,5 +11,5 @@ function woodCalculator(chariQuantity, tableQuantity, bedQuantity){
     return totalWood;
 }
 
-const totalWood = woodCalculator(2,2,5);
-console.log('Total Wood Needed: ', totalWood);
+const a = woodCalculator(2,2,5);
+console.log('Total Wood Needed: ', a);

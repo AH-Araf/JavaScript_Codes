@@ -1,4 +1,4 @@
-const userName = 'blackPink'; 
+const userName = 'blaCkpink'; 
 const userInput = 'blackPink'; 
 console.log ( userName.toLowerCase ( ) ) ; 
 console.log ( userInput.toUpperCase ( ) ) ; 

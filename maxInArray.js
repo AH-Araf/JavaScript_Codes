@@ -10,6 +10,6 @@ function maxInArray(numbers){
     return largest;
 }
 
-const heights= [167,45,190,112,1267];
-const tallest = maxInArray(heights);
-console.group('tallest person is ',tallest);
+const a= [167,45,190,112,1267];
+// const tallest = maxInArray(a);
+console.log('tallest person is ',maxInArray(a));
